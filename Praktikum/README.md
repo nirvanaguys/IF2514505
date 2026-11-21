@@ -47,7 +47,7 @@ Praktikum ini dirancang untuk memberikan pengalaman langsung dalam mengimplement
 |:--:|:---------|:------|:-------|:------:|
 | 1 | Sub-CPMK-2 | Perbaikan Citra pada Domain Spasial | `11241063_Muhammad_Wisnu_Wardhana_Praktikum1` | ✅ Selesai |
 | 2 | Sub-CPMK-3 | Transformasi dan Penapisan pada Domain Frekuensi | `11241063_Muhammad_Wisnu_Wardhana_Praktikum2.ipynb` | ✅ Selesai |
-| 3 | Sub-CPMK-4 | Transformasi Ruang Warna untuk Analisis dan Pemrosesan Citra | `11241063_Muhammad_Wisnu_Wardhana_Praktikum3.ipynb` | 🚧 Dikerjakan |
+| 3 | Sub-CPMK-4 | Transformasi Ruang Warna untuk Analisis dan Pemrosesan Citra | `11241063_Muhammad_Wisnu_Wardhana_Praktikum3.ipynb` | ✅ Selesai |
 
 > ⚠️ Berkas Praktikum 1 tersimpan **tanpa ekstensi** `.ipynb`, padahal isinya notebook JSON yang valid. Tambahkan ekstensi `.ipynb` setelah mengunduh agar dapat langsung dibuka di Jupyter/Colab.
 
